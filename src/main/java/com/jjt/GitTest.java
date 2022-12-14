@@ -14,5 +14,7 @@ public class GitTest {
         System.out.println("pull test2!");
         System.out.println("hot-fix test2");
         System.out.println("克隆代码测试");
+
+        System.out.println("重新测试冲突jjt_test端");
     }
 }
